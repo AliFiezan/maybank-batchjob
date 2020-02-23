@@ -1,0 +1,14 @@
+com\alifiezan\step\Reader$1.class
+com\alifiezan\step\Reader$1$2.class
+com\alifiezan\dao\impl\TransactionDaoImpl$1.class
+com\alifiezan\dao\TransactionDao.class
+com\alifiezan\step\Processor.class
+com\alifiezan\step\Reader.class
+com\alifiezan\dao\impl\TransactionDaoImpl.class
+com\alifiezan\step\Listener.class
+com\alifiezan\AppMain.class
+com\alifiezan\controller\JobLauncerController.class
+com\alifiezan\model\Transaction.class
+com\alifiezan\step\Writer.class
+com\alifiezan\config\BatchConfig.class
+com\alifiezan\step\Reader$1$1.class
